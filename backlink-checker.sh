@@ -1,14 +1,6 @@
 #!/bin/bash
 # Script is used to check if a specified link exists in a list of web pages.
-# This is useful for SEO experts when you need to validate that your backlinks
-# still exist on the web pages where you set them or bought them.
-# Author: Ramil Valitov ramilvalitov@gmail.com
-# First release: 13.08.2018
-# Git: https://github.com/rvalitov/backlink-checker
-# We use some code from:
-#https://natelandau.com/bash-scripting-utilities/
-#https://github.com/tlatsas/bash-spinner
-
+# This is useful for SEO experts when you need to val
 #OPTIONS
 
 #Maximum timeout in seconds
